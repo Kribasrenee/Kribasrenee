@@ -1,5 +1,11 @@
 ## Hi there I am Kribasrenee S A👋
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kribasrenee&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kribasrenee&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kribasrenee&layout=compact&theme=radical)
 
 <!--
 **Kribasrenee/Kribasrenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
