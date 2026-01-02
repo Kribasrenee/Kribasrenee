@@ -2,11 +2,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kribasrenee&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kribasrenee&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kribasrenee&layout=compact&theme=radical)
 
-### 🌱 About Me
+## 🌱 About Me
 - Passionate about technology and problem solving
 - Interested in Web Development, IoT, and AI-based applications
 - Always eager to learn and build impactful projects
